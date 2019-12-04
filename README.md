@@ -1,2 +1,3 @@
-# nextjsTemplate
-Slightly modifed template for next.js in typescript from "beeinger/typescriptNext"
+Custom Next.js & typescript boilerplate
+
+                          by beeinger
