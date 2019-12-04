@@ -27,7 +27,7 @@ class MyDocument extends Document {
           <link rel="manifest" href="/manifest.json" />
           <meta property="og:locale" content="pl_PL" />
           <meta name="language" content="en" />
-          <meta name="author" content="Maciej Sułecki" />
+          <meta name="author" content="Kacper Wargacki" />
           <meta name="theme-color" content="#70b6f1" />
           <meta name="msapplication-TileColor" content="#70b6f1" />
           <meta name="msapplication-TileImage" content="/favicon-144.png" />

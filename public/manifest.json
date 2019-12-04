@@ -1,7 +1,7 @@
 {
-  "short_name": "typescriptNext",
-  "name": "Boilerplate of Next.js PWA with typescript",
-  "description": "Boilerplate of Next.js PWA with typescript",
+  "short_name": "nextjsTemplate",
+  "name": "next.js template",
+  "description": "next.js template",
   "icons": [
     {
       "src": "/icons/icon-72x72.png",
